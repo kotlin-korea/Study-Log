@@ -7,7 +7,7 @@
 
 # 대상 소스 선정
 
-* 자세한 후보 리스트는 이슈 #2 에서 확인 가능합니다.
+* 자세한 후보 리스트는 [이슈 #2](https://github.com/kotlin-korea/SundaySadang-Log/issues/2)에서 확인 가능합니다.
 
 ## 초급
 - [x] https://github.com/ganadist/AndroidApiDemo
