@@ -19,7 +19,7 @@
 
 ## 고급
 - [x] https://github.com/iammert/AndroidArchitecture
-
+  api 키값 : 8476a7ab80ad76f0936744df0430e67c
 # Rule
 
 ## 오프라인
