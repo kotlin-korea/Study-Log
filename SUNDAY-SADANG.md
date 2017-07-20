@@ -1,4 +1,3 @@
-
 # 스터디 방식
 
 * 각자 원하는 소스 코드를 선택한다.
@@ -19,7 +18,8 @@
 
 ## 고급
 - [x] https://github.com/iammert/AndroidArchitecture
-  api 키값 : 8476a7ab80ad76f0936744df0430e67c
+   - 사전 작업 안내 : [iammert-AndroidArchitecture](https://github.com/kotlin-korea/Study-Log/blob/master/iammert-AndroidArchitecture.md)
+  
 # Rule
 
 ## 오프라인
